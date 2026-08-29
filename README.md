@@ -15,19 +15,19 @@ O objetivo é centralizar os trabalhos realizados durante a matéria, documentan
 
 Ao longo da disciplina, os projetos e exercícios exploram conceitos como:
 
-🧩 Programação Orientada a Objetos (POO)
-🏗️ Arquitetura de Software
-🔐 Encapsulamento
-🧬 Herança
-🔄 Polimorfismo
-🎯 Abstração
-📐 Princípios de projeto
-🧱 Padrões de projeto (Design Patterns)
-🧹 Boas práticas e código limpo
-🔗 Relacionamento entre classes e objetos
-📦 Organização e estruturação de projetos
-🧪 Testes e validação de software
-📂 Estrutura do repositório
+🧩 Programação Orientada a Objetos (POO)<br>
+🏗️ Arquitetura de Software<br>
+🔐 Encapsulamento<br>
+🧬 Herança<br>
+🔄 Polimorfismo<br>
+🎯 Abstração<br>
+📐 Princípios de projeto<br>
+🧱 Padrões de projeto (Design Patterns)<br>
+🧹 Boas práticas e código limpo<br>
+🔗 Relacionamento entre classes e objetos<br>
+📦 Organização e estruturação de projetos<br>
+🧪 Testes e validação de software<br>
+📂 Estrutura do repositório<br>
 
 A estrutura pode ser modificada conforme novos exercícios e projetos forem adicionados ao longo do semestre.
 
