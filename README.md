@@ -55,13 +55,13 @@ Além de servir como material de estudo, o repositório também permite acompanh
 
 Cada projeto ou exercício pode conter seu próprio README.md, apresentando informações como:
 
-📌 Descrição da atividade
-🎯 Objetivo
-🛠️ Tecnologias utilizadas
-🏗️ Estrutura do projeto
-▶️ Como executar
-💡 Conceitos aplicados
-📸 Exemplos ou demonstrações
+📌 Descrição da atividade<br>
+🎯 Objetivo<br>
+🛠️ Tecnologias utilizadas<br>
+🏗️ Estrutura do projeto<br>
+▶️ Como executar<br>
+💡 Conceitos aplicados<br>
+📸 Exemplos ou demonstrações<br>
 👨‍💻 Autor
 
 Desenvolvido como parte das atividades acadêmicas do curso de Ciência da Computação / Engenharia de Software da FEI.
